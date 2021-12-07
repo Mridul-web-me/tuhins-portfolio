@@ -1,0 +1,51 @@
+.service-box{
+    position: relative;
+    overflow: hidden;
+}
+.service-box-single > p{
+    text-align: center;
+    font-size: 15px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.service-box-single > h4{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    color: #333;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+.service-box-single > h4:hover{
+    color: #07b3cc;
+    letter-spacing: 1px;
+}
+.service-box-single{
+    
+    place-items: center;
+    text-align: center;
+    border-radius: 10px;
+    transition: 0.2s ease;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.service-box-single .icon{
+    transition: 0.5s  all ease-in-out;
+}
+.service-box-single .icon:hover{
+    transform: scale(1.1);
+}
+.services-head{
+    text-align: center;
+    font-size: 25px;
+    color: #07b3cc;
+    font-weight: 700;
+    letter-spacing: 4px;
+}
+.services-paragraph{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400 !important;
+    line-height: 28px;
+    color: #4b4949;
+}

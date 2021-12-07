@@ -1,0 +1,17 @@
+@media (min-width: 1148px){
+
+    .slide-2{
+        display: none;
+    }
+    .slide-1{
+        display: block;
+    }
+  }
+  @media (max-width: 1148px){
+    .slide-2{
+        display: block;
+    }
+    .slide-1{ 
+        display: none;
+    }
+  }

@@ -1,0 +1,10 @@
+.main-body-container{
+    padding-left: 56px !important;
+    padding-right: 56px !important;
+}
+@media (max-width: 1440px) {
+    .main-body-container{
+        padding: 0!important;
+    }
+
+}
