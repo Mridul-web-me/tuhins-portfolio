@@ -31,17 +31,11 @@ const ShowWork = ({ modalIsOpen, closeModal, work }) => {
         contentLabel="Example Modal"
       >
         <div className="slide-1">
-          {/* <iframe src={work.worklink} width="962px" height="565px" frameborder="5px" scrolling="no"></iframe> */}
           <ReactPlayer url={work.worklink} width="962px" height="565px" controls frameborder="5px" />
 
         </div>
         <div className="slide-2">
-          {/* <iframe src={work.worklink} width="350px" height="221px" frameborder="5px" scrolling="no"></iframe> */}
-          {/* <ReactPlayer url={work.worklink} width="350px" height="221px" controls /> */}
           <ReactPlayer url={work.worklink} width="350px" height="221px" controls frameborder="5px" />
-
-
-
         </div>
       </Modal>
     </div>
