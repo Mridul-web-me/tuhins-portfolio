@@ -1,7 +1,7 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
 import aboutImage from '../../../images/artist.jpg';
-import profilePicture from '../../../images/rayhan.jpg';
+import profilePicture from '../../../images/rayhan2.jpeg';
 import './About.css';
 import artisrHead from './../../../images/WhitelogoLogo.png'
 

@@ -63,19 +63,19 @@ const initialState = {
         {
             name: 'Rayhan Shahariar',
             worklink: 'https://youtu.be/q5g92yGzKlc',
+            image: image8
+
+        },
+        {
+            name: 'Rayhan Shahariar',
+            worklink: 'https://www.youtube.com/watch?v=OqnZzSpqKMs',
             image: image9
 
         },
         {
             name: 'Rayhan Shahariar',
-            worklink: 'https://youtu.be/OqnZzSpqKMs',
-            image: image10
-
-        },
-        {
-            name: 'Rayhan Shahariar',
             worklink: 'https://youtu.be/tyaGMPiMXjY',
-            image: image8
+            image: image10
 
         }
     ],

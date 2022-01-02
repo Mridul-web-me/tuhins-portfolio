@@ -7,7 +7,7 @@ const Placeorder = () => {
     return (
         <Container>
             <Jumbotron style={{ backgroundColor: 'transparent' }}>
-                <h1 className="header-banner-head">VISUAL PRESENTATION DESING</h1>
+                <h1 className="header-banner-head">VISUAL PRESENTATION DESIGN</h1>
                 <h4 className="header-banner-category">POWERPOINT, GOOGLE SLIDES, KEYNOTE</h4>
 
             </Jumbotron>
